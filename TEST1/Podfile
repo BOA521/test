@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '8.0'
+
+use_frameworks!
+
+target 'TEST1' do
+
+    pod 'AAALib', :path=>"../AAALib"
+    pod 'BBBLib', :path=>"../BBBLib"
+    pod 'CCCLib', :path=>"../CCCLib"
+
+    pod 'XMPPFramework', '~> 3.7.0'
+    
+    pod 'AFNetworking', '~> 2.3'
+
+end

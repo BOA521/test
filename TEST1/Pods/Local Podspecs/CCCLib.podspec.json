@@ -1,0 +1,22 @@
+{
+  "name": "CCCLib",
+  "version": "0.1.0",
+  "summary": "A short description of CCCLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gengxiaoen/CCCLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gengxiaoen": "gengxiaoen@thinkjoy.cn"
+  },
+  "source": {
+    "git": "https://github.com/gengxiaoen/CCCLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CCCLib/Classes/**/*"
+}
