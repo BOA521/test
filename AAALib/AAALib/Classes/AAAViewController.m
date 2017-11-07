@@ -20,9 +20,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor orangeColor];
-    
-    
-//    BBBViewController *bbbViewCV = [BBBViewController ]
+
     
     
     UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
